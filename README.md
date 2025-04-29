@@ -58,6 +58,10 @@ Figma:
 Veja os protótipos e o design do sistema.
 👉 https://www.figma.com/design/I1Mgvg9VI0DCPCDHDb31Ex/Untitled?node-id=0-1&t=yqd5InxS8XVq0oAb-1
 
+Screencast:
+Assista o vídeo explicativo.
+👉 https://www.youtube.com/watch?v=kgC76DI3dxg
+
 👥 Quem mantém e contribui com o projeto
 Este projeto é mantido por:
 
