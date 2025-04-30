@@ -1,5 +1,7 @@
 # 🎊 Festly
 
+![Festly](Capturadetela2025-04-29211652.png)
+
 ## O que o projeto faz
 
 Este repositório contém o sistema **Festly**, um marketplace de organização de eventos. A aplicação conecta **clientes** que desejam realizar festas e eventos a **organizadores profissionais**, permitindo buscas filtradas, comparações, contratações e avaliações. O sistema oferece um ambiente seguro e prático para transformar eventos em experiências inesquecíveis.
